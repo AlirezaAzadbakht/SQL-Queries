@@ -1,0 +1,2 @@
+# SQLqueries-
+some useful queries  
